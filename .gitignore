@@ -1,0 +1,19 @@
+# Diretórios de build e temporários
+cmake-build-debug/
+*.ninja_log
+CMakeFiles/
+CMakeCache.txt
+
+# Arquivos temporários do CLion
+.idea/
+*.iml
+
+# Arquivos de log
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários do editor
+*~
